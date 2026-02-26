@@ -65,3 +65,8 @@ Thumbs.db
 # Uvicorn / Runtime
 # ----------------------
 *.pid
+
+#-------------
+# Map Created
+#-------------
+route_map.html
