@@ -1,0 +1,67 @@
+# ----------------------
+# Python
+# ----------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ----------------------
+# Virtual Environment
+# ----------------------
+venv/
+env/
+.venv/
+ENV/
+
+# ----------------------
+# Environment Variables
+# ----------------------
+.env
+.env.*
+
+# ----------------------
+# Logs
+# ----------------------
+*.log
+
+# ----------------------
+# Cache
+# ----------------------
+.cache/
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+
+# ----------------------
+# IDEs / Editors
+# ----------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ----------------------
+# OS Files
+# ----------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------
+# Database (if local)
+# ----------------------
+*.sqlite3
+
+# ----------------------
+# Uvicorn / Runtime
+# ----------------------
+*.pid
